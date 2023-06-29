@@ -378,3 +378,183 @@
   body: '2',
   from: '34601103423'
 }
+[handleMsg]:  {
+  key: {
+    remoteJid: '34663585200@s.whatsapp.net',
+    fromMe: false,
+    id: 'DBBE9D893D60DEE17EB43C30718B6235',
+    participant: undefined
+  },
+  messageTimestamp: 1688080831,
+  pushName: 'Rubén Trujillo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '34663585200'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34663585200@s.whatsapp.net',
+    fromMe: false,
+    id: 'F394B9F2D980F33F9A74C97E83EDBF90',
+    participant: undefined
+  },
+  messageTimestamp: 1688080836,
+  pushName: 'Rubén Trujillo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Doc',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Doc',
+  from: '34663585200'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34663585200@s.whatsapp.net',
+    fromMe: false,
+    id: '073A80A26378A82214AED832DC0A2B1C',
+    participant: undefined
+  },
+  messageTimestamp: 1688080839,
+  pushName: 'Rubén Trujillo',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '34663585200'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34663585200@s.whatsapp.net',
+    fromMe: false,
+    id: '4C1688848BDD8FEFD915AFE902403DDC',
+    participant: undefined
+  },
+  messageTimestamp: 1688080846,
+  pushName: 'Rubén Trujillo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Gracias',
+  from: '34663585200'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34663585200@s.whatsapp.net',
+    fromMe: false,
+    id: 'E2DB85185F5514ADBAC8607724991E1D',
+    participant: undefined
+  },
+  messageTimestamp: 1688080848,
+  pushName: 'Rubén Trujillo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '34663585200'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34663585200@s.whatsapp.net',
+    fromMe: false,
+    id: '81B69A0E45F160A52CE932B9368EE6B4',
+    participant: undefined
+  },
+  messageTimestamp: 1688080853,
+  pushName: 'Rubén Trujillo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Gracias',
+  from: '34663585200'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34663585200@s.whatsapp.net',
+    fromMe: false,
+    id: 'AF71811226999EB4E3519E7E67BD90A8',
+    participant: undefined
+  },
+  messageTimestamp: 1688080860,
+  pushName: 'Rubén Trujillo',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '34663585200'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34663585200@s.whatsapp.net',
+    fromMe: false,
+    id: '9EC0637AC2B4A72EE5B90D358885696A',
+    participant: undefined
+  },
+  messageTimestamp: 1688080867,
+  pushName: 'Rubén Trujillo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '34663585200'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34663585200@s.whatsapp.net',
+    fromMe: false,
+    id: '7BC1EAEB5FDC6EDB2A6D68E2513AFE81',
+    participant: undefined
+  },
+  messageTimestamp: 1688080870,
+  pushName: 'Rubén Trujillo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Discord',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Discord',
+  from: '34663585200'
+}
