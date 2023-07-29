@@ -2,10 +2,50 @@
   key: {
     remoteJid: '34601103423@s.whatsapp.net',
     fromMe: false,
-    id: 'EB7B4DC8FBD48F2D4E8B8AB5C4F36DA5',
+    id: 'B9FA75DA30177BECBD3892CC0A24A3D6',
     participant: undefined
   },
-  messageTimestamp: 1688080065,
+  messageTimestamp: 1690668436,
+  pushName: 'Mónica Pitarch🌚',
+  broadcast: false,
+  message: Message {
+    conversation: 'Jjsjjs',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Jjsjjs',
+  from: '34601103423'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34601103423@s.whatsapp.net',
+    fromMe: false,
+    id: '0312C4CB6DB81FD49E5655ADB2A29316',
+    participant: undefined
+  },
+  messageTimestamp: 1690668445,
+  pushName: 'Mónica Pitarch🌚',
+  broadcast: false,
+  message: Message {
+    conversation: 'Office',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Office',
+  from: '34601103423'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34601103423@s.whatsapp.net',
+    fromMe: false,
+    id: 'C55133B2225149B07FF895F97B287711',
+    participant: undefined
+  },
+  messageTimestamp: 1690668454,
   pushName: 'Mónica Pitarch🌚',
   broadcast: false,
   message: Message {
@@ -22,130 +62,10 @@
   key: {
     remoteJid: '34601103423@s.whatsapp.net',
     fromMe: false,
-    id: 'F32770418300FA49E48D863BE0EEF2E7',
+    id: '33544953DB3ABD338D1CCFE0B4D584E6',
     participant: undefined
   },
-  messageTimestamp: 1688080117,
-  pushName: 'Mónica Pitarch🌚',
-  broadcast: false,
-  message: Message {
-    conversation: 'Discord',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Discord',
-  from: '34601103423'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '34601103423@s.whatsapp.net',
-    fromMe: false,
-    id: '0FB1AECAB1B05EFD7043977E3CDCB0C5',
-    participant: undefined
-  },
-  messageTimestamp: 1688080124,
-  pushName: 'Mónica Pitarch🌚',
-  broadcast: false,
-  message: Message {
-    conversation: 'Gracias',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Gracias',
-  from: '34601103423'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '34601103423@s.whatsapp.net',
-    fromMe: false,
-    id: 'A8560FABDD244DA853DF31B2773B4C6A',
-    participant: undefined
-  },
-  messageTimestamp: 1688080150,
-  pushName: 'Mónica Pitarch🌚',
-  broadcast: false,
-  message: Message {
-    conversation: 'Grac',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Grac',
-  from: '34601103423'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '34601103423@s.whatsapp.net',
-    fromMe: false,
-    id: '88D5BA2BF3F1910BB76E52C5A4E85190',
-    participant: undefined
-  },
-  messageTimestamp: 1688080173,
-  pushName: 'Mónica Pitarch🌚',
-  broadcast: false,
-  message: Message {
-    conversation: 'Hola',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Hola',
-  from: '34601103423'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '34601103423@s.whatsapp.net',
-    fromMe: false,
-    id: '9A162AD7C6B3D2DD704CFD4EF2111DDA',
-    participant: undefined
-  },
-  messageTimestamp: 1688080182,
-  pushName: 'Mónica Pitarch🌚',
-  broadcast: false,
-  message: Message {
-    conversation: 'Tuto',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Tuto',
-  from: '34601103423'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '34601103423@s.whatsapp.net',
-    fromMe: false,
-    id: 'C83E3268F4B200856B9F69DA6BB64DF1',
-    participant: undefined
-  },
-  messageTimestamp: 1688080189,
-  pushName: 'Mónica Pitarch🌚',
-  broadcast: false,
-  message: Message {
-    conversation: 'gracias',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'gracias',
-  from: '34601103423'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '34601103423@s.whatsapp.net',
-    fromMe: false,
-    id: 'D19F27277A95C73060A2BB47B5424D1A',
-    participant: undefined
-  },
-  messageTimestamp: 1688080229,
+  messageTimestamp: 1690668461,
   pushName: 'Mónica Pitarch🌚',
   broadcast: false,
   message: Message {
@@ -162,10 +82,10 @@
   key: {
     remoteJid: '34601103423@s.whatsapp.net',
     fromMe: false,
-    id: 'C84480A843A3B2A31715A9123AAFE04E',
+    id: '14461D390AF61A813BC82E01F2F1BCF6',
     participant: undefined
   },
-  messageTimestamp: 1688080233,
+  messageTimestamp: 1690668475,
   pushName: 'Mónica Pitarch🌚',
   broadcast: false,
   message: Message {
@@ -177,384 +97,4 @@
   },
   body: 'Hola',
   from: '34601103423'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '34601103423@s.whatsapp.net',
-    fromMe: false,
-    id: 'D29EA7BE49FB02FFDA7EE913DF669E75',
-    participant: undefined
-  },
-  messageTimestamp: 1688080235,
-  pushName: 'Mónica Pitarch🌚',
-  broadcast: false,
-  message: Message {
-    conversation: '2',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: '2',
-  from: '34601103423'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '34601103423@s.whatsapp.net',
-    fromMe: false,
-    id: 'E6136E8C59CC2E4CBC1F89A92CA3F2B8',
-    participant: undefined
-  },
-  messageTimestamp: 1688080243,
-  pushName: 'Mónica Pitarch🌚',
-  broadcast: false,
-  message: Message {
-    conversation: 'Discord',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Discord',
-  from: '34601103423'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '34601103423@s.whatsapp.net',
-    fromMe: false,
-    id: 'CA3BA30D02EACFEF95B14341210CBF66',
-    participant: undefined
-  },
-  messageTimestamp: 1688080253,
-  pushName: 'Mónica Pitarch🌚',
-  broadcast: false,
-  message: Message {
-    conversation: 'Tuto',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Tuto',
-  from: '34601103423'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '34601103423@s.whatsapp.net',
-    fromMe: false,
-    id: '85D1575089641B7E31BD51A948625D5B',
-    participant: undefined
-  },
-  messageTimestamp: 1688080259,
-  pushName: 'Mónica Pitarch🌚',
-  broadcast: false,
-  message: Message {
-    conversation: 'Hola',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Hola',
-  from: '34601103423'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '34601103423@s.whatsapp.net',
-    fromMe: false,
-    id: '7CAB8E18A0454A91E4BF276AC5DD13B1',
-    participant: undefined
-  },
-  messageTimestamp: 1688080263,
-  pushName: 'Mónica Pitarch🌚',
-  broadcast: false,
-  message: Message {
-    conversation: 'Tuto',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Tuto',
-  from: '34601103423'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '34601103423@s.whatsapp.net',
-    fromMe: false,
-    id: '04FEF9CE226929117D3F4789F80EF398',
-    participant: undefined
-  },
-  messageTimestamp: 1688080265,
-  pushName: 'Mónica Pitarch🌚',
-  broadcast: false,
-  message: Message {
-    conversation: '2',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: '2',
-  from: '34601103423'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '34601103423@s.whatsapp.net',
-    fromMe: false,
-    id: '949F085D49805EC6017F20ACE5A8506D',
-    participant: undefined
-  },
-  messageTimestamp: 1688080272,
-  pushName: 'Mónica Pitarch🌚',
-  broadcast: false,
-  message: Message {
-    conversation: 'Gracias',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Gracias',
-  from: '34601103423'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '34601103423@s.whatsapp.net',
-    fromMe: false,
-    id: '4AF7778E25F25EE339E01C28C0C8F156',
-    participant: undefined
-  },
-  messageTimestamp: 1688080280,
-  pushName: 'Mónica Pitarch🌚',
-  broadcast: false,
-  message: Message {
-    conversation: 'Hola',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Hola',
-  from: '34601103423'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '34601103423@s.whatsapp.net',
-    fromMe: false,
-    id: '46A96F3D4662E6221AF91F9FCBD396E6',
-    participant: undefined
-  },
-  messageTimestamp: 1688080283,
-  pushName: 'Mónica Pitarch🌚',
-  broadcast: false,
-  message: Message {
-    conversation: 'Gracias',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Gracias',
-  from: '34601103423'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '34601103423@s.whatsapp.net',
-    fromMe: false,
-    id: '3962946A69DFD37FCAE7F2DF6865E932',
-    participant: undefined
-  },
-  messageTimestamp: 1688080285,
-  pushName: 'Mónica Pitarch🌚',
-  broadcast: false,
-  message: Message {
-    conversation: '2',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: '2',
-  from: '34601103423'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '34663585200@s.whatsapp.net',
-    fromMe: false,
-    id: 'DBBE9D893D60DEE17EB43C30718B6235',
-    participant: undefined
-  },
-  messageTimestamp: 1688080831,
-  pushName: 'Rubén Trujillo',
-  broadcast: false,
-  message: Message {
-    conversation: 'Hola',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Hola',
-  from: '34663585200'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '34663585200@s.whatsapp.net',
-    fromMe: false,
-    id: 'F394B9F2D980F33F9A74C97E83EDBF90',
-    participant: undefined
-  },
-  messageTimestamp: 1688080836,
-  pushName: 'Rubén Trujillo',
-  broadcast: false,
-  message: Message {
-    conversation: 'Doc',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Doc',
-  from: '34663585200'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '34663585200@s.whatsapp.net',
-    fromMe: false,
-    id: '073A80A26378A82214AED832DC0A2B1C',
-    participant: undefined
-  },
-  messageTimestamp: 1688080839,
-  pushName: 'Rubén Trujillo',
-  broadcast: false,
-  message: Message {
-    conversation: '2',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: '2',
-  from: '34663585200'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '34663585200@s.whatsapp.net',
-    fromMe: false,
-    id: '4C1688848BDD8FEFD915AFE902403DDC',
-    participant: undefined
-  },
-  messageTimestamp: 1688080846,
-  pushName: 'Rubén Trujillo',
-  broadcast: false,
-  message: Message {
-    conversation: 'Gracias',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Gracias',
-  from: '34663585200'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '34663585200@s.whatsapp.net',
-    fromMe: false,
-    id: 'E2DB85185F5514ADBAC8607724991E1D',
-    participant: undefined
-  },
-  messageTimestamp: 1688080848,
-  pushName: 'Rubén Trujillo',
-  broadcast: false,
-  message: Message {
-    conversation: 'Hola',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Hola',
-  from: '34663585200'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '34663585200@s.whatsapp.net',
-    fromMe: false,
-    id: '81B69A0E45F160A52CE932B9368EE6B4',
-    participant: undefined
-  },
-  messageTimestamp: 1688080853,
-  pushName: 'Rubén Trujillo',
-  broadcast: false,
-  message: Message {
-    conversation: 'Gracias',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Gracias',
-  from: '34663585200'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '34663585200@s.whatsapp.net',
-    fromMe: false,
-    id: 'AF71811226999EB4E3519E7E67BD90A8',
-    participant: undefined
-  },
-  messageTimestamp: 1688080860,
-  pushName: 'Rubén Trujillo',
-  broadcast: false,
-  message: Message {
-    conversation: '2',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: '2',
-  from: '34663585200'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '34663585200@s.whatsapp.net',
-    fromMe: false,
-    id: '9EC0637AC2B4A72EE5B90D358885696A',
-    participant: undefined
-  },
-  messageTimestamp: 1688080867,
-  pushName: 'Rubén Trujillo',
-  broadcast: false,
-  message: Message {
-    conversation: 'Hola',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Hola',
-  from: '34663585200'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '34663585200@s.whatsapp.net',
-    fromMe: false,
-    id: '7BC1EAEB5FDC6EDB2A6D68E2513AFE81',
-    participant: undefined
-  },
-  messageTimestamp: 1688080870,
-  pushName: 'Rubén Trujillo',
-  broadcast: false,
-  message: Message {
-    conversation: 'Discord',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Discord',
-  from: '34663585200'
 }
