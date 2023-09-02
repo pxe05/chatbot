@@ -9,7 +9,7 @@ const flowSecundario = addKeyword(['2', 'siguiente']).addAnswer(['📄 Aquí ten
 const flowEvents = addKeyword(['event', 'events', 'evento', 'eventos']).addAnswer(
     [
         '📅 *Upcoming events:*',
-        'https://esncastellon.org/events',
+        'https://esncastellon.org/eventos',
     ],
     null,
     null,
