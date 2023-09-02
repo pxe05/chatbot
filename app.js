@@ -6,29 +6,20 @@ const MockAdapter = require('@bot-whatsapp/database/mock')
 
 const flowSecundario = addKeyword(['2', 'siguiente']).addAnswer(['📄 Aquí tenemos el flujo secundario'])
 
+const flowEvents = addKeyword(['event', 'events', 'evento', 'eventos']).addAnswer(
+    [
+        '📅 *Upcoming events:*',
+        'https://esncastellon.org/events',
+    ],
+    null,
+    null,
+    [flowSecundario]
+)
+
 const flowOffice = addKeyword(['office', 'oficina']).addAnswer(
     [
-        'The office is closed during the summer'
-    ],
-    null,
-    null,
-    [flowSecundario]
-)
-
-const flowTuto = addKeyword(['tutorial', 'tuto']).addAnswer(
-    [
-        '🙌 Aquí encontras un ejemplo rapido',
-        '\n*2* Para siguiente paso.',
-    ],
-    null,
-    null,
-    [flowSecundario]
-)
-
-const flowGracias = addKeyword(['gracias', 'grac']).addAnswer(
-    [
-        '🚀 Puedes aportar tu granito de arena a este proyecto',
-        '\n*2* Para siguiente paso.',
+        'The office is open this week on *Tuesday* from *18:00 to 19:30* and on *Wednesday, Thursday and Friday* from *16:00 to 17:30*.\n',
+        'Office location: https://youtu.be/CqHfhF-qSa0',
     ],
     null,
     null,
@@ -43,7 +34,7 @@ const flowESNCard = addKeyword(['esncard', 'card']).addAnswer(
     'The ESNcard costs 15€ ', '\n*2* Para siguiente paso.'],
     null,
     null,
-    [flowSecundario]
+    [flowOffice]
 )
 
 const flowPrincipal = addKeyword(['hola', 'ole', 'alo', 'hello', 'hi', 'hey'])
@@ -51,12 +42,12 @@ const flowPrincipal = addKeyword(['hola', 'ole', 'alo', 'hello', 'hi', 'hey'])
     .addAnswer(
         [
             '👉 *office* to see the office hours and location',
-            '👉 *graciass*  para ver la lista de videos',
             '👉 *ESNcard* to see how to get your ESNcard',
+            '👉 *events* to see the upcoming events',
         ],
         null,
         null,
-        [flowOffice, flowGracias, flowTuto, flowESNCard]
+        [flowOffice, flowEvents, flowESNCard]
     )
 
 const main = async () => {
