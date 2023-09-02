@@ -2,94 +2,19 @@
   key: {
     remoteJid: '34601103423@s.whatsapp.net',
     fromMe: false,
-    id: 'B9FA75DA30177BECBD3892CC0A24A3D6',
+    id: 'AC8C59D4C01C85FE9CAFF3041157909B',
     participant: undefined
   },
-  messageTimestamp: 1690668436,
+  messageTimestamp: 1693612084,
   pushName: 'Mónica Pitarch🌚',
   broadcast: false,
   message: Message {
-    conversation: 'Jjsjjs',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Jjsjjs',
-  from: '34601103423'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '34601103423@s.whatsapp.net',
-    fromMe: false,
-    id: '0312C4CB6DB81FD49E5655ADB2A29316',
-    participant: undefined
-  },
-  messageTimestamp: 1690668445,
-  pushName: 'Mónica Pitarch🌚',
-  broadcast: false,
-  message: Message {
-    conversation: 'Office',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Office',
-  from: '34601103423'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '34601103423@s.whatsapp.net',
-    fromMe: false,
-    id: 'C55133B2225149B07FF895F97B287711',
-    participant: undefined
-  },
-  messageTimestamp: 1690668454,
-  pushName: 'Mónica Pitarch🌚',
-  broadcast: false,
-  message: Message {
-    conversation: 'Hola',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Hola',
-  from: '34601103423'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '34601103423@s.whatsapp.net',
-    fromMe: false,
-    id: '33544953DB3ABD338D1CCFE0B4D584E6',
-    participant: undefined
-  },
-  messageTimestamp: 1690668461,
-  pushName: 'Mónica Pitarch🌚',
-  broadcast: false,
-  message: Message {
-    conversation: '2',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: '2',
-  from: '34601103423'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '34601103423@s.whatsapp.net',
-    fromMe: false,
-    id: '14461D390AF61A813BC82E01F2F1BCF6',
-    participant: undefined
-  },
-  messageTimestamp: 1690668475,
-  pushName: 'Mónica Pitarch🌚',
-  broadcast: false,
-  message: Message {
-    conversation: 'Hola',
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2

@@ -8,8 +8,7 @@ const flowSecundario = addKeyword(['2', 'siguiente']).addAnswer(['📄 Aquí ten
 
 const flowOffice = addKeyword(['office', 'oficina']).addAnswer(
     [
-        'The office is closed during the summer',
-        '\n*2* Para siguiente paso.',
+        'The office is closed during the summer'
     ],
     null,
     null,
@@ -36,20 +35,24 @@ const flowGracias = addKeyword(['gracias', 'grac']).addAnswer(
     [flowSecundario]
 )
 
-const flowDiscord = addKeyword(['discord']).addAnswer(
-    ['🤪 Únete al discord', '\n*2* Para siguiente paso.'],
+const flowESNCard = addKeyword(['esncard', 'card']).addAnswer(
+    ['*HOW TO get your ESNcard:*\n' +
+    '1️⃣Fill the form (https://esncastellon.org/esncard).\n' +
+    '2️⃣Bring an ID picture and Learning Agreement \n' +
+    '3️⃣Come to our office! https://youtu.be/CqHfhF-qSa0\n' +
+    'The ESNcard costs 15€ ', '\n*2* Para siguiente paso.'],
     null,
     null,
     [flowSecundario]
 )
 
-const flowPrincipal = addKeyword(['hola', 'ole', 'alo'])
+const flowPrincipal = addKeyword(['hola', 'ole', 'alo', 'hello', 'hi', 'hey'])
     .addAnswer('🙌 Welcome to the *ESN Castellón* chatbot')
     .addAnswer(
         [
-            '👉 *office* para ver la documentación',
-            '👉 *gracias*  para ver la lista de videos',
-            '👉 *discord* unirte al discord',
+            '👉 *office* to see the office hours and location',
+            '👉 *graciass*  para ver la lista de videos',
+            '👉 *ESNcard* to see how to get your ESNcard',
         ],
         null,
         null,
