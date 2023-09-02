@@ -31,7 +31,7 @@ const flowESNCard = addKeyword(['esncard', 'card']).addAnswer(
     '1️⃣Fill the form (https://esncastellon.org/esncard).\n' +
     '2️⃣Bring an ID picture and Learning Agreement \n' +
     '3️⃣Come to our office! https://youtu.be/CqHfhF-qSa0\n' +
-    'The ESNcard costs 15€ ', '\n*2* Para siguiente paso.'],
+    'The ESNcard costs 15€ '],
     null,
     null,
     [flowOffice]
