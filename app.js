@@ -16,7 +16,7 @@ const flowEvents = addKeyword(['event', 'events', 'evento', 'eventos']).addAnswe
     [flowSecundario]
 )
 
-const flowOffice = addKeyword(['office', 'oficina']).addAnswer(
+let flowOffice = addKeyword(['office', 'oficina']).addAnswer(
     [
         'The office is open this week on *Tuesday* from *18:00 to 19:30* and on *Wednesday, Thursday and Friday* from *16:00 to 17:30*.\n',
         'Office location: https://youtu.be/CqHfhF-qSa0',
@@ -35,6 +35,16 @@ const flowESNCard = addKeyword(['esncard', 'card']).addAnswer(
     null,
     null,
     [flowOffice]
+)
+
+flowOffice = addKeyword(['office', 'oficina']).addAnswer(
+    [
+        'The office is open this week on *Tuesday* from *18:00 to 19:30* and on *Wednesday, Thursday and Friday* from *16:00 to 17:30*.\n',
+        'Office location: https://youtu.be/CqHfhF-qSa0',
+    ],
+    null,
+    null,
+    [flowESNCard]
 )
 
 const flowPrincipal = addKeyword(['hola', 'ole', 'alo', 'hello', 'hi', 'hey'])
